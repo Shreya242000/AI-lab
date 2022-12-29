@@ -29,3 +29,6 @@ bfs(visited,graph,'1')<br>
 
 green screen removal:
 https://github.com/Rutulpatel7077/Green-Removal
+
+remove object from image:
+https://dev.to/stokry/how-to-remove-an-object-from-an-image-with-python-2md9
