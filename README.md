@@ -33,5 +33,8 @@ https://github.com/Rutulpatel7077/Green-Removal
 remove object from image:
 https://dev.to/stokry/how-to-remove-an-object-from-an-image-with-python-2md9
 
+
+
 Bone fracture detection:
+https://www.kaggle.com/code/gpiosenka/bone-fractures-f1-score-98
 https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays
