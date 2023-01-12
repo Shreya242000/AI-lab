@@ -38,3 +38,8 @@ https://dev.to/stokry/how-to-remove-an-object-from-an-image-with-python-2md9
 Bone fracture detection:
 https://www.kaggle.com/code/gpiosenka/bone-fractures-f1-score-98
 https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays
+
+
+
+medical insurence cost prediction
+https://colab.research.google.com/drive/1XXZjLJiy0LmTf_Q2fvVpL71x4pMXvau-#scrollTo=vV_nE8lNXgji
