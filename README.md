@@ -46,3 +46,6 @@ https://colab.research.google.com/drive/1XXZjLJiy0LmTf_Q2fvVpL71x4pMXvau-#scroll
 
 
 https://www.ijraset.com/research-paper/medical-insurance-cost-prediction-using-machine-learning
+
+
+https://jovian.com/pknayak0707-job/02-insurance-linear-regression/v/61
