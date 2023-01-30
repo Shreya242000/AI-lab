@@ -43,3 +43,6 @@ https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-usi
 
 medical insurence cost prediction
 https://colab.research.google.com/drive/1XXZjLJiy0LmTf_Q2fvVpL71x4pMXvau-#scrollTo=vV_nE8lNXgji
+
+
+https://www.ijraset.com/research-paper/medical-insurance-cost-prediction-using-machine-learning
