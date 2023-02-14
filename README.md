@@ -52,3 +52,7 @@ https://jovian.com/pknayak0707-job/02-insurance-linear-regression/v/61
 
 https://www.youtube.com/watch?v=ntBa7YKc9XM
 
+
+cyber security:
+https://smartproxy.com/proxies/types
+
