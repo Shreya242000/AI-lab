@@ -51,6 +51,7 @@ https://www.ijraset.com/research-paper/medical-insurance-cost-prediction-using-m
 https://jovian.com/pknayak0707-job/02-insurance-linear-regression/v/61
 
 https://www.youtube.com/watch?v=ntBa7YKc9XM
+https://github.com/adiag321/Medical-Insurance-Cost-Prediction/blob/main/4_Exploratory_Data_Analysis.ipynb
 
 
 cyber security:
